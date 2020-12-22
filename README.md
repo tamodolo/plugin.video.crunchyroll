@@ -1,8 +1,8 @@
-# Crunchyroll plugin for Kodi
+# Crunchyroll plugin adaptation for Kodi 19 - Compatibility changes
 
 Crunchyroll a KODI (XBMC) plugin for Crunchyroll.com.
 
-Git repo: https://github.com/MrKrabat/plugin.video.crunchyroll
+Original Repo Git repo: https://github.com/MrKrabat/plugin.video.crunchyroll
 
 Forum posting: xxx
 
